@@ -52,7 +52,7 @@ The VaR is the beginning of the area filled in red while the CVaR is the average
 ##### Cloning the Repo
 First, we have to clone the repo to your local device. Run this code on your terminal
 ```
-git clone https://github.com/ramsundaram101/Monte-Carlo-Portfolio-Predictor
+git clone https://github.com/devgupta22/Monte-Carlo-Simulation
 ```
 
 ##### Installing Dependencies
